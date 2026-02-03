@@ -1,45 +1,71 @@
-Registration Form
+# 📝 Registration Form
 
-Este projeto consiste em um formulário de registro criado utilizando HTML e CSS, seguindo os conceitos ensinados no freeCodeCamp. O formulário permite que os usuários insiram suas informações pessoais para registro.
+Este projeto consiste em um **Formulário de Registro** desenvolvido com **HTML e CSS**, seguindo os conceitos apresentados no currículo do **freeCodeCamp**. O objetivo é praticar a criação de formulários completos, acessíveis e bem estruturados.
 
-📌 Funcionalidades
+## 🚀 Tecnologias Utilizadas
 
-Campos para nome, sobrenome, e-mail e senha.
+- HTML5  
+- CSS3  
 
-Opção para selecionar o tipo de conta (Pessoal ou Empresarial).
+## 📌 Funcionalidades
 
-Upload de foto de perfil.
+- Campos para:
+  - Nome
+  - Sobrenome
+  - E-mail
+  - Senha
+- Seleção do tipo de conta:
+  - Pessoal
+  - Empresarial
+- Upload de foto de perfil
+- Campo de idade com validação de mínimo e máximo
+- Seleção de como o usuário conheceu o serviço
+- Campo de biografia
+- Checkbox para aceite dos **Termos e Condições**
+- Layout simples e responsivo
 
-Campo para idade com restrição de mínimo e máximo.
+## 📂 Estrutura do Projeto
 
-Opção de como o usuário descobriu o serviço.
+registration-form/
+├── index.html # Estrutura do formulário
+└── styles.css # Estilização do layout
 
-Campo de biografia.
+🌐 Acesse o Projeto Online
 
-Checkbox para aceite dos Termos e Condições.
+🔗
 
-🛠️ Tecnologias Utilizadas
 
-HTML5: Estrutura do formulário.
+## 🖥️ Demonstração
 
-CSS3: Estilização do formulário com responsividade.
+Para visualizar o projeto, basta abrir o arquivo `index.html` em qualquer navegador moderno.
 
-📷 Demonstração
+## ▶️ Como Executar
 
-Uma prévia do projeto pode ser conferida ao executar o arquivo index.html em qualquer navegador moderno.
+1. Clone este repositório:
 
-🚀 Como Executar
-
-Clone este repositório:
-
+```bash
 git clone https://github.com/seu-usuario/registration-form.git
-
 Acesse a pasta do projeto:
 
 cd registration-form
+Abra o arquivo index.html no navegador.
 
-Abra o arquivo index.html no seu navegador preferido.
+🎯 Objetivo do Projeto
+Este projeto foi criado para praticar:
+
+Criação de formulários HTML
+
+Uso de diferentes tipos de input
+
+Validações básicas
+
+Organização e semântica do código
+
+Estilização com CSS
 
 📜 Licença
+Este projeto foi desenvolvido para fins educacionais, seguindo os materiais do freeCodeCamp.
+Você é livre para modificar, estudar e reutilizar o código.
 
-Este projeto foi desenvolvido para fins educacionais seguindo os materiais do freeCodeCamp. Sinta-se à vontade para modificar e usar como quiser! 😊
+Projeto simples, ideal para iniciantes que desejam aprender a criar formulários web funcionais e bem estruturados.
+
