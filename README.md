@@ -32,7 +32,7 @@ registration-form/
 
 🌐 Acesse o Projeto Online
 
-🔗
+🔗https://awaldige.github.io/formulario-de-registro/
 
 
 ## 🖥️ Demonstração
